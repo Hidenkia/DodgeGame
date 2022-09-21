@@ -1,5 +1,7 @@
 import pygame as pg
 
+print("hello world")
+
 from lib.scene import MenuScene
 
 class EventWrapper:
